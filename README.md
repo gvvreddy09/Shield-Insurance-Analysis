@@ -54,7 +54,7 @@ I've created 3 pages: General View, Sales Mode, and Age Group and they have:
 
 
 + To interact with [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRhMWYyNmItOGIwMy00ZTEyLTlkOGMtNzJlMDBkMWRkYjcwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
-+ [Presentation Link]().
++ [Presentation Link](https://www.linkedin.com/feed/update/urn:li:activity:7155392298116096001/).
 
 ### Insights
 March reports the highest customer growth and revenue growth.
